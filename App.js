@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>My First Mobile Application</Text>
-      <Text>I Am Adeline Faye C. Lompon</Text>
+      <Text>I Am Anven Moses Lompon Agbulos</Text>
       <Text>A Mobile Developer</Text>
       <StatusBar style="auto" />
     </View>
